@@ -1,0 +1,54 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Kış sezonu kamp ekipmanı stok sayımı",
+      "description": "Uyku tulumları ve kış çadırları sayılacak.",
+      "status": "YAPILACAK",
+      "priority": "YUKSEK",
+      "assignedTo": null,
+      "createdAt": "2026-10-03T09:00:00.000Z",
+      "updatedAt": "2026-10-03T09:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "title": "Tırmanış reyonu vitrin düzenlemesi",
+      "description": "Yeni sezon ip ve karabinalar vitrine yerleştirilecek.",
+      "status": "DEVAM_EDIYOR",
+      "priority": "ORTA",
+      "assignedTo": null,
+      "createdAt": "2026-10-04T10:00:00.000Z",
+      "updatedAt": "2026-10-06T11:15:00.000Z"
+    },
+    {
+      "id": 3,
+      "title": "Av sezonu kampanya etiketleri",
+      "description": "Kampanyalı ürünlerin raf etiketleri değiştirilecek.",
+      "status": "TAMAMLANDI",
+      "priority": "DUSUK",
+      "assignedTo": null,
+      "createdAt": "2026-10-01T08:30:00.000Z",
+      "updatedAt": "2026-10-02T16:00:00.000Z"
+    },
+    {
+      "id": 4,
+      "title": "Yeni ürün yerleşimi",
+      "description": "Çadırlar bugün yerleştirilmeli",
+      "status": "YAPILACAK",
+      "priority": "ACIL",
+      "assignedTo": null,
+      "createdAt": "2026-10-10T21:02:38.255Z",
+      "updatedAt": "2026-10-10T21:24:47.436Z"
+    },
+    {
+      "id": 5,
+      "title": "Yeni ürün yerleşimi",
+      "description": "Kamp reyonuna yeni sezon çadırları yerleştirilecek",
+      "status": "YAPILACAK",
+      "priority": "YUKSEK",
+      "assignedTo": null,
+      "createdAt": "2026-10-10T21:24:09.756Z",
+      "updatedAt": "2026-10-10T21:24:09.756Z"
+    }
+  ]
+}
